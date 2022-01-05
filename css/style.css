@@ -87,6 +87,7 @@ p {
 
 img {
 	max-width: 100%;
+	padding-left: 10px;
 }
 
 input:focus,
