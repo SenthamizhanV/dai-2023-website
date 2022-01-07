@@ -198,7 +198,7 @@ mark {
 }
 
 .site-btn {
-	font-size: 14px;
+	font-size: 15px;
 	color: #ffffff;
 	font-weight: 600;
 	border: none;
@@ -550,6 +550,7 @@ mark {
 	color: #171822;
 	font-weight: 600;
 	position: relative;
+	padding-left: 10px;
 }
 
 .ha-text .ha-btn:before {
