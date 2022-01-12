@@ -71,6 +71,7 @@ h4 {
 h5 {
 	font-size: 18px;
 	padding-left: 10px;
+	padding-bottom: 10px;
 }
 
 h6 {
@@ -89,6 +90,7 @@ p {
 img {
 	max-width: 100%;
 	padding-left: 10px;
+	padding-bottom: 10px;
 }
 
 input:focus,
