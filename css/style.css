@@ -1715,14 +1715,14 @@ background-color: #ccc;
 .collapsible:after {
 	content: '\02795'; /* Unicode character for "plus" sign (+) */
 	font-size: 13px;
-	color: white;
+	color: rgb(72, 102, 131);
 	float: right;
 	margin-left: 5px;
   }
   
-  .collapse-active:after {
-	content: "\2796"; /* Unicode character for "minus" sign (-) */
-  }
+.collapsible.active:after {
+content: '\02796'; /* Unicode character for "minus" sign (-) */
+}
 
 .content {
 padding: 20px;
