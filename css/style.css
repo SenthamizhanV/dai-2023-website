@@ -114,7 +114,7 @@ mark {
 	display: inline-block;
 	line-height: 0em;
 	padding-bottom: 0.5em;
-	background-color: #ffe45d;
+	background-color: #d1e7e3;
   }
 
 /*---------------------
@@ -179,8 +179,8 @@ mark {
 .price-item .tr-tag,
 .schedule-tab .nav-tabs .nav-item .nav-link.active,
 .site-btn {
-	background-image: -o-linear-gradient(330deg, #0047AB 0%, #f9488b 100%), -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%);
-	background-image: linear-gradient(120deg, #0047AB 0%, #f9488b 100%), linear-gradient(120deg, #ee8425 0%, #f9488b 100%);
+	background-image: -o-linear-gradient(330deg, #0047AB 0%, #1bebda 100%), -o-linear-gradient(330deg, #137380 0%, #0bc2a9 100%);
+	background-image: linear-gradient(120deg, #0047AB 0%, #1bebda 100%), linear-gradient(120deg, #137380 0%, #0bc2a9 100%);
 }
 
 /* buttons */
@@ -204,7 +204,6 @@ mark {
 	font-weight: 600;
 	border: none;
 	padding: 12px 40px 12px;
-	border-radius: 20px;
 }
 
 /* Preloder */
@@ -341,7 +340,7 @@ mark {
 }
 
 .nav-menu .mainmenu ul li .dropdown li a:hover {
-	color: #f44949;
+	color: #0b5a4d;
 }
 
 .nav-menu .mainmenu ul li .dropdown li a:after {
@@ -378,7 +377,7 @@ mark {
 	bottom: 36px;
 	height: 2px;
 	width: 100%;
-	background: #F44949;
+	background: #0b5a4d;
 	content: "";
 	opacity: 0;
 	-webkit-transition: all 0.3s;
@@ -415,10 +414,10 @@ mark {
 }
 
 .hero-section .hero-text h2 {
-	font-size: 60px;
+	font-size: 48px;
 	color: #ffffff;
 	line-height: 72px;
-	font-weight: 600;
+	font-weight: 400;
 	margin-top: 24px;
 	margin-bottom: 5px;
 }
@@ -559,7 +558,7 @@ mark {
 	bottom: -6px;
 	height: 2px;
 	width: 100%;
-	background: #f44949;
+	background: #0b5a4d;
 	content: "";
 }
 
@@ -1524,7 +1523,7 @@ mark {
 }
 
 .speaker-item .si-text .si-title span {
-	color: #f44949;
+	color: #122327;
 	font-size: 16px;
 	display: block;
 }
@@ -1584,7 +1583,7 @@ mark {
 
 .schedule-table-tab .nav-tabs .nav-item {
 	border-right: 1px solid #e7e7e8;
-	width: 25%;
+	width: 33.33333%;
 	text-align: center;
 }
 
@@ -2596,8 +2595,8 @@ background-color: #f1f1f1;
 }
 
 .team-9 .team-img img {
-    width: 60%;
-    height: 200px;
+    width: 50%;
+    /* height: 200px; */
     border-radius: 0%;
 }
 
