@@ -1546,8 +1546,8 @@ mark {
 }
 
 .speaker-item .si-text .si-social a:hover {
-	background: -o-linear-gradient(330deg, #ee8425, #f9488b);
-	background: linear-gradient(120deg, #ee8425, #f9488b);
+	background: -o-linear-gradient(330deg, #137380, #0bc2a9);
+	background: linear-gradient(120deg, #137380, #0bc2a9);
 	color: #ffffff;
 }
 
