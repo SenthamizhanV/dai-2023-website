@@ -206,6 +206,10 @@ mark {
 	padding: 12px 40px 12px;
 }
 
+.site-btn:hover {
+	color: #cecece;
+}
+
 /* Preloder */
 
 #preloder {
