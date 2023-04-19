@@ -1716,15 +1716,15 @@ background-color: #ccc;
 }
 
 .collapsible:after {
-	content: '\02795'; /* Unicode character for "plus" sign (+) */
-	font-size: 13px;
+	content: '\023F7'; /* Unicode character for "plus" sign (+) */
+	font-size: 20px;
 	color: rgb(72, 102, 131);
 	float: right;
 	margin-left: 5px;
   }
   
 .collapsible.active:after {
-content: '\02796'; /* Unicode character for "minus" sign (-) */
+content: '\023F6'; /* Unicode character for "minus" sign (-) */
 }
 
 .content {
